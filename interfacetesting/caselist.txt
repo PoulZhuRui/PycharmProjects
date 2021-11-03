@@ -1,0 +1,4 @@
+user/testGetBarcodeinfo
+user/testGetSpecificatiominfo
+user/testGetqueryBarcode
+#user/testGetUserinfo2
