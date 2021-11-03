@@ -22,6 +22,8 @@ class ReadCaonfig:
         self.cp = configparser.ConfigParser()
         self.cp.read(config_path)
 
+    def Zer(self):
+        pass
 
     def get_email(self, name):
         value = self.cp.get("EMAIL", name)
